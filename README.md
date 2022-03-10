@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=gusdn7142&show_icons=true&hide_border=true)](https://github.com/gusdn7142)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdn7142&layout=compact)](https://github.com/gusdn7142)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdn7142&layout=compact&hide=c%23)](https://github.com/gusdn7142)
+
 
 <!--
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -26,3 +27,15 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 -->  
+
+
+
+<!--
+<a href="">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link="
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+-->
+
+
